@@ -1,0 +1,21 @@
+{
+    "name": "avikarsha/yii2-jq-datepicker",
+    "description": "Datepicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","datepicker"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Avikarsha Saha",
+            "email": "avikarsha.saha@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "avikarsha\\datepicker\\": ""
+        }
+    }
+}
